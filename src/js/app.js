@@ -1,6 +1,4 @@
-// import 'lightbox2';
-import lightbox from 'lightbox2';
-import '../../node_modules/lightbox2/dist/js/lightbox-plus-jquery.js';  
+
 
 document.addEventListener('DOMContentLoaded', function() {
     const images = document.querySelectorAll('.carousel img');
